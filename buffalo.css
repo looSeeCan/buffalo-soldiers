@@ -1,0 +1,33 @@
+html {
+    background: url("./assets/ryuStage.jpg") no-repeat center fixed;
+    background-size: 1200px 600px;
+}
+
+.circle {
+    height: 100px;
+    width: 100px;
+    border: 1px black solid;
+    border-radius: 50%;
+    background-color: red;
+}
+
+.circle1 {
+    height: 100px;
+    width: 100px;
+    border: 1px black solid;
+    border-radius: 50%;
+    background-color: white;
+}
+
+img {
+    position: absolute;
+    bottom: 0px;
+    width: 10%;
+    height: 25%;
+}
+
+.audio {
+    position: absolute;
+    left: 600px;
+    top: 680px;
+}

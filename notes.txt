@@ -1,0 +1,12 @@
+I cloned this project to my lenovo machine. I have not worked on my lenovo machine for a bit, because it had a battery issue. I think
+    I fixed the issue. I did a npm install -g live-server. It did not work initially, I had to manually go to settings(json) and add 
+        "liveServer.settings.port": 5501. That worked.  
+
+buffalo.js is the latest code that I am working on. as I work to compare my code I am naming them by numbers. buffalo2.js is my oldest work.
+
+01/26/2023
+    I like what I have on buffalo.js for right now. I tried to use getters and setters initially (buffalo3.js), but, I could not get that 
+    to work, and I do not believe that that was the best way to go about it anyhow. In buffalo4.js I tried to use Object.define, that works 
+    fine, but, I realized that I could abstract all that code. So I did so in buffalo.js.
+    Satisfied with this for now. The real goal was to understand getters and setters, but, for what I wanted for this code -which was to
+    reuse just one object for all characters- it was not necessary.

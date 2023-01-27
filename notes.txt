@@ -12,3 +12,4 @@ buffalo.js is the latest code that I am working on. as I work to compare my code
     reuse just one object for all characters- it was not necessary.
 
     I just pulled this without a merge request. I was not supposed to be able to do that. Gotta check on that.
+    ///test

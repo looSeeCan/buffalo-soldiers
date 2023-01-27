@@ -19,3 +19,4 @@ buffalo.js is the latest code that I am working on. as I work to compare my code
     ////test
     ok. I finally got it to work. I had a situation where I was confused on which branch I was on. I had a couple lenovo branches. I think because 
     maybe i was not deleting branches? I deleted everything and now I have it fixed.
+    Still some issues. I switched to the branch "test" that I created.

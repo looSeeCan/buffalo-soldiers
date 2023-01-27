@@ -17,3 +17,5 @@ buffalo.js is the latest code that I am working on. as I work to compare my code
 01/27/2023
     on my lenovo machine, when doing a git pull, it did not update the code automatically. I had to do it manually.
     ////test
+    ok. I finally got it to work. I had a situation where I was confused on which branch I was on. I had a couple lenovo branches. I think because 
+    maybe i was not deleting branches? I deleted everything and now I have it fixed.

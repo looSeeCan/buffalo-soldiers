@@ -9,7 +9,11 @@ buffalo.js is the latest code that I am working on. as I work to compare my code
     to work, and I do not believe that that was the best way to go about it anyhow. In buffalo4.js I tried to use Object.define, that works 
     fine, but, I realized that I could abstract all that code. So I did so in buffalo.js.
     Satisfied with this for now. The real goal was to understand getters and setters, but, for what I wanted for this code -which was to
-    reuse just one object for all characters- it was not necessary.
+    reuse just one object for all characters- it was not necessary. 
 
     I just pulled this without a merge request. I was not supposed to be able to do that. Gotta check on that.
     ///test
+
+01/27/2023
+    on my lenovo machine, when doing a git pull, it did not update the code automatically. I had to do it manually.
+    ////test
